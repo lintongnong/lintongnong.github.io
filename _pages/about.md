@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year PhD student at the [University of Texas at Austin, Department of Electrical and Computer Engineering(Software Engineering and System track)](https://www.ece.utexas.edu/), advised by [Dr. Milos Gligoric](https://users.ece.utexas.edu/~gligoric/). My research focus in **compilers**, **parallel programming**, and **software testing**.
+I am a first year PhD student at the [University of Texas at Austin, Department of Electrical and Computer Engineering (Software Engineering and System track)](https://www.ece.utexas.edu/), advised by [Dr. Milos Gligoric](https://users.ece.utexas.edu/~gligoric/). My research focus in **compilers**, **parallel programming**, and **software testing**.
 
 Find my most recent resume [here](../files/CV_Tong-Nong_work.pdf).
 
