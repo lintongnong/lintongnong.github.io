@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Lin, Tong-Nong"
 title_separator          : "-"
 name                     : &name "Lin, Tong-Nong"
-description              : &description "PhD student in ECE(software engineering & systems), UT Austin"
+description              : &description "PhD student in ECE (software engineering & systems), UT Austin"
 url                      : https://lintongnong.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Wilson1211/lintongnong.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Lin, Tong-Nong"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student in ECE(software engineering & systems), UT Austin"
+  bio              : "PhD student in ECE (software engineering & systems), UT Austin"
   location         : "Austin, TX"
   employer         : "The University of Texas at Austin"
   uri              : # URL
@@ -76,13 +76,13 @@ author:
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
-# publication_category:
+publication_category:
 #   books:
 #     title: 'Books'
 #   manuscripts:
 #     title: 'Journal Articles'    
-#   conferences:
-#     title: 'Conference Papers'
+  conferences:
+    title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
