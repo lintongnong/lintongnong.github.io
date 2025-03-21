@@ -1,0 +1,5 @@
+vendor/**
+vendor/
+.bundle/
+.sass-cache/
+_site/
