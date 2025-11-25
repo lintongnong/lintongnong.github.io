@@ -22,7 +22,7 @@ repository               : "Wilson1211/lintongnong.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile1.png"
   name             : "Lin, Tong-Nong"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in ECE (software engineering & systems), UT Austin"
