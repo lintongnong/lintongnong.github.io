@@ -2,7 +2,8 @@
 title: "Efficient Algorithms for Decomposing Integers as Sums of Few Tetrahedral Numbers"
 collection: publications
 category: conferences
-permalink: /publication/Efficient_Algorithms_for_Decomposing_Integers_as_Sums_of_Few_Tetrahedral_Numbers
+permalink: https://link.springer.com/chapter/10.1007/978-3-031-63021-7_20#citeas
+# permalink: /publication/Efficient_Algorithms_for_Decomposing_Integers_as_Sums_of_Few_Tetrahedral_Numbers
 # excerpt: # 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2024-07-01
 # venue: 'Journal 1'
