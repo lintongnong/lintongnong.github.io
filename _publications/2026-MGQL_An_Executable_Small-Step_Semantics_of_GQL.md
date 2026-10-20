@@ -8,7 +8,7 @@ link: https://2026.splashcon.org/details/oopsla-2026/85/MGQL-An-Executable-Small
 date: 2026-10-01
 venue: 'OOPSLA'
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-# paperurl: 'http://lintongnong.github.io/files/Pollock_tetrahedral_numbers_conjecture_iwoca.pdf'
+paperurl: 'https://lintongnong.github.io/files/mgql.pdf'
 citation: 'Aditya Thimmaiah, Tong-Nong Lin, Milos Gligoric, "MGQL: An Executable, Small-Step Semantics of GQL" Proceedings of the ACM on Programming Languages (OOPSLA).'
 ---
 
