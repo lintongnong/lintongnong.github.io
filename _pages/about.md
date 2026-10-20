@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year PhD student at the [University of Texas at Austin, Department of Electrical and Computer Engineering (Software Engineering and System track)](https://www.ece.utexas.edu/), advised by [Dr. Milos Gligoric](https://users.ece.utexas.edu/~gligoric/). My current research focuses on formal methods and automated reasoning, including mechanized semantics and LLM-assisted verification. I have also worked on GPU performance optimization and parallel computing.
+I am a third year PhD student at the [University of Texas at Austin, Department of Electrical and Computer Engineering (Software Engineering and System track)](https://www.ece.utexas.edu/), advised by [Dr. Milos Gligoric](https://users.ece.utexas.edu/~gligoric/). My current research focuses on formal methods and automated reasoning, including mechanized semantics and LLM-assisted verification. I have also worked on GPU performance optimization and parallel computing.
 
 Find my most recent resume [here](../files/Tong-Nong_Lin_CV.pdf).
 
